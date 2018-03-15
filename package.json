@@ -1,0 +1,25 @@
+{
+  "name": "nn-email-automation",
+  "version": "1.0.0",
+  "description": "Receiving Emails as Contributions for NatureNet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "formidable": "1.1.1",
+    "cloudinary": "1.10.0",
+    "querystring": "0.2.0",
+    "fs": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahzoon/NN-Email-Automation.git"
+  },
+  "author": "MJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahzoon/NN-Email-Automation/issues"
+  },
+  "homepage": "https://github.com/mahzoon/NN-Email-Automation#readme"
+}
